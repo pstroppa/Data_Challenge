@@ -209,4 +209,4 @@ pred_title_name = "prediction of SF6 emission within the EU for the next 10 year
 
 pt.plot_prediction(train,test,backtest_df,forecast_df,title = pred_title_name)
 
-print("DONE JUHU")
+print("DONE JUHU!")
