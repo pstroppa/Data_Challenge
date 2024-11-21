@@ -62,6 +62,6 @@ $RECYCLE.BIN/
 .venv
 Results*
 #data folder
-Data*
+*Data
 #old code
 Old*
