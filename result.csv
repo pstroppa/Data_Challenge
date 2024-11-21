@@ -1,0 +1,59 @@
+,max-year,min-year,max-total,min-total,most-improved
+carbon_dioxide_co2,"               country_or_area                 year      value  \
+1058  United States of America  2005-01-01 00:00:00  6122746.6   
+1056  United States of America  2007-01-01 00:00:00  6121653.9   
+1059  United States of America  2004-01-01 00:00:00  6096978.4   
+
+                category  
+1058  carbon_dioxide_co2  
+1056  carbon_dioxide_co2  
+1059  carbon_dioxide_co2  ","    country_or_area                 year  value            category
+652          Monaco  2011-01-01 00:00:00   71.9  carbon_dioxide_co2
+650          Monaco  2013-01-01 00:00:00   74.4  carbon_dioxide_co2
+651          Monaco  2012-01-01 00:00:00   75.2  carbon_dioxide_co2","max_total_carbon_dioxide_co2_United States of America    141609119.3
+max_total_carbon_dioxide_co2_European Union              103121977.9
+max_total_carbon_dioxide_co2_Russian Federation           42662426.8
+dtype: float64","min_total_carbon_dioxide_co2_Monaco            2189.1
+min_total_carbon_dioxide_co2_Liechtenstein     5215.6
+min_total_carbon_dioxide_co2_Malta            62218.0
+dtype: float64","most-improved_carbon_dioxide_co2_United States of America    1007651.6
+most-improved_carbon_dioxide_co2_Turkey                       235462.8
+most-improved_carbon_dioxide_co2_Japan                        163805.6
+dtype: float64"
+methane_ch4_emissions,"         country_or_area                 year     value               category
+4920  Russian Federation  1990-01-01 00:00:00  942383.5  methane_ch4_emissions
+4919  Russian Federation  1991-01-01 00:00:00  875196.2  methane_ch4_emissions
+4896  Russian Federation  2014-01-01 00:00:00  859101.1  methane_ch4_emissions","     country_or_area                 year  value               category
+4741          Monaco  1994-01-01 00:00:00    0.8  methane_ch4_emissions
+4738          Monaco  1997-01-01 00:00:00    0.9  methane_ch4_emissions
+4726          Monaco  2009-01-01 00:00:00    1.0  methane_ch4_emissions","max_total_carbon_dioxide_co2_United States of America    141609119.3
+max_total_carbon_dioxide_co2_European Union              103121977.9
+max_total_carbon_dioxide_co2_Russian Federation           42662426.8
+dtype: float64","min_total_methane_ch4_emissions_Monaco             42.9
+min_total_methane_ch4_emissions_Liechtenstein     479.5
+min_total_carbon_dioxide_co2_Monaco              2189.1
+dtype: float64","most-improved_carbon_dioxide_co2_United States of America    1007651.6
+most-improved_carbon_dioxide_co2_Turkey                       235462.8
+most-improved_carbon_dioxide_co2_Japan                        163805.6
+dtype: float64"
+sulphur_hexafluoride_sf6,"               country_or_area                 year    value  \
+8330  United States of America  1990-01-01 00:00:00  31080.4   
+8328  United States of America  1992-01-01 00:00:00  29949.8   
+8329  United States of America  1991-01-01 00:00:00  29764.6   
+
+                      category  
+8330  sulphur_hexafluoride_sf6  
+8328  sulphur_hexafluoride_sf6  
+8329  sulphur_hexafluoride_sf6  ","     country_or_area                 year  value                  category
+7840   Liechtenstein  2012-01-01 00:00:00    0.0  sulphur_hexafluoride_sf6
+7368         Belarus  1995-01-01 00:00:00    0.0  sulphur_hexafluoride_sf6
+7853   Liechtenstein  1999-01-01 00:00:00    0.0  sulphur_hexafluoride_sf6","max_total_carbon_dioxide_co2_United States of America    141609119.3
+max_total_carbon_dioxide_co2_European Union              103121977.9
+max_total_carbon_dioxide_co2_Russian Federation           42662426.8
+dtype: float64","min_total_sulphur_hexafluoride_sf6_Liechtenstein    2.2
+min_total_sulphur_hexafluoride_sf6_Cyprus           2.4
+min_total_sulphur_hexafluoride_sf6_Monaco           3.4
+dtype: float64","most-improved_carbon_dioxide_co2_United States of America    1007651.6
+most-improved_carbon_dioxide_co2_Turkey                       235462.8
+most-improved_carbon_dioxide_co2_Japan                        163805.6
+dtype: float64"
