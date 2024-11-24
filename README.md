@@ -7,4 +7,4 @@ config_file.py is for configuring some of the parameters and plotting names
 Data_preperation takes care of data wrangling, importing and exporting
 plotting contains severl Bokeh plots
 
-please create a virtual enviroment using the requiremnts.txt file for package handling
+please create a virtual enviroment using the requirements.txt file for package handling
